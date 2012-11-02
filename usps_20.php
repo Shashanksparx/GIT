@@ -62,7 +62,7 @@ class ash_usps{
      * @since 1.0
      */
     function ash_usps(){
-        $this->_load_services();
+        $this->_load_services(); //sddf
         return TRUE;
     }
     
